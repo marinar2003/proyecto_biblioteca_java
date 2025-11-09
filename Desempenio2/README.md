@@ -39,9 +39,4 @@ Formato: titulo,autor,añoPublicacion,isbn
 - Proporcione un menú para agregar, buscar y listar libros.
 - Guarde los libros en un archivo CSV antes de salir.
 
-## Puntaje
- - Clase Libro > Getters y Setters: 20p
- - Clase Bibioteca > buscarLibrosPorAutor: 10p
- - Clase Bibioteca > cargarLibrosDesdeCSV: 30p
- - Clase Bibioteca > guardarLibrosEnCSV: 30p
- - Compilacion general: 10p
+
